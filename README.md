@@ -52,7 +52,7 @@ The dataset is reduced to only numerical columns for correlation analysis. A cor
 
 How to Run the Code
 Clone the repository:
-git clone https://github.com/your-username/house-prices-regression.git
+git clone https://github.com/MehwishAlam/housepriceprediction.git
 
 Install the necessary Python libraries:
 pip install -r requirements.txt
